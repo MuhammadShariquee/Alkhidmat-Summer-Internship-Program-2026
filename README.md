@@ -36,6 +36,8 @@ Throughout this internship, I gained knowledge in areas such as:
 
 I created this repository to keep all of my internship work in one place and to document my learning journey. It also serves as part of my personal portfolio and reflects my participation in the Alkhidmat Summer Internship Program 2026.
 
+It's basically a six week internship week 5 & 6 are remaining.
+
 ---
 
 **Muhammad Sharique**
