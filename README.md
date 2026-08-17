@@ -39,6 +39,8 @@ I created this repository to keep all of my internship work in one place and to 
 It's basically a six week internship week 5 & 6 are remaining.
 Week 5 & 6 will most probavly be physical so if it wil be then i'll inform it here.
 
+wEEK 5 DROPPING THIS WEEK!
+
 ---
 
 **Muhammad Sharique**
