@@ -10,6 +10,7 @@ I joined the program as a **Virtual Intern** in the **Volunteer Management Depar
 - 📄 Week 2 Report
 - 📄 Week 3 Report
 - 📄 Week 4 Report
+- 📄 Week 5 & 6 Report
 
 Each report includes:
 - Session summaries
@@ -36,7 +37,6 @@ Throughout this internship, I gained knowledge in areas such as:
 
 I created this repository to keep all of my internship work in one place and to document my learning journey. It also serves as part of my personal portfolio and reflects my participation in the Alkhidmat Summer Internship Program 2026.
 
-wEEK 5 DROPPING THIS WEEK!
 
 ---
 
